@@ -1,6 +1,6 @@
 {
   "name": "@dgrijuela/react-scripts",
-  "version": "0.0.10",
+  "version": "0.0.14",
   "description": "Configuration and scripts for Create React App.",
   "repository": "facebook/create-react-app",
   "license": "MIT",
@@ -20,7 +20,7 @@
     "utils"
   ],
   "bin": {
-    "dgrijuela-react-scripts": "./bin/react-scripts.js"
+    "dgrijuela-design-system": "./bin/react-scripts.js"
   },
   "types": "./lib/react-app.d.ts",
   "dependencies": {
