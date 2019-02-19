@@ -15,6 +15,8 @@ process.on('unhandledRejection', err => {
   throw err;
 });
 
+console.log('probando');
+
 const spawn = require('react-dev-utils/crossSpawn');
 const args = process.argv.slice(2);
 
